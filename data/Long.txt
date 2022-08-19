@@ -1,0 +1,45 @@
+Abdurahman Al-Nubi#QAT#8.11#1
+Aleksey Lukashevich#UKR#8.16#0
+Andrey Ignatov#RUS#8.14#0
+Armen Martirosyan#ARM#7.99#0
+Bogdan Tarus#ROM#8.26#0
+Carlos Calado#POR#8.34#0
+Cheikh Tidiane Toure#FRA#8.18#0
+Ciaran McDonagh#IRL#7.95#0
+Daisuke Watanabe#JPN#8.12#0
+Danial Jahic#YUG#8.18#0
+Emmanuel Bangue#FRA#8.15#0
+Erick Walder#USA#8.35#1
+Erik Nijs#BEL#7.99#0
+Gable Garenamotse#BOT#7.97#1
+Gregor Cankar#SLO#8.28#0
+Hatem Mohamed Mersal#EGY#8.31#1
+Hussein Taher Al-Sabee#KSA#8.00#1
+Ian Lowe#CAN#8.12#1
+Ivan Pedroso#CUB#8.62#1
+Ivaylo Mladenov#BUL#8.10#0
+Jai Taurima#AUS#8.19#0
+Jing Chen#CHN#8.07#0
+Jun Sung Hee#KOR#7.99#0
+Kader Klouchi#FRA#8.12#0
+Kareem Streete-Thompson#CAY#8.15#1
+Kevin Dilworth#USA#7.94#1
+Kofi Amoah Prah#GER#8.15#0
+Konstantin Krause#GER#8.21#0
+Konstantinos Koukodimos#GRE#8.09#0
+Le Huang#CHN#7.99#0
+Luis Meliz#CUB#8.14#0
+Mark Anthony Awere#GHA#8.04#1
+Masaki Morinaga#JPN#8.07#0
+Mattias Sunneborn#SWE#7.77#0
+Nathan Morgan#GBR#7.99#1
+Nelson Carlos Ferreira Jr.#BRA#8.20#1
+Nicola Trentin#ITA#8.07#0
+Nikolay Atanasov#BUL#8.09#0
+Richard Duncan#CAN#8.15#1
+Roman Shchurenko#UKR#8.30#0
+Savante Stringfellow#USA#8.12#1
+Shane Hair#AUS#8.14#0
+Shigeru Tagawa#JPN#8.15#0
+Yago Lamela#ESP#8.56#0
+Younes Moudrik#MAR#8.20#1

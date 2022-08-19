@@ -1,0 +1,9 @@
+# Unwanted macOS files:
+/.DS_Store
+
+# Unwanted Turbo Pascal files:
+# KEYBOARD.TPU AND STIMER.TPU WILL BE TRACKED BUT NOT THE .PAS
+/*.$$$
+/*.BAK
+/*.TPU
+/*.EXE
